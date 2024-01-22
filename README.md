@@ -1,7 +1,13 @@
-# ms_drainer
-Ms Drainer | WalletConnect v2.0 | NEW BYPASS | SEAPORT 1.5 | BLUR | X2Y2 | PERMIT
+# MS_Drainer
+
+### Ms Drainer | WalletConnect v2.0 | NEW BYPASS | SEAPORT 1.5 | BLUR | X2Y2 | PERMIT
 The most modern drainer available nowadays!
-  Script Advantages
+
+For purchase: t.me/umbrella_corp666
+Price: $1350
+
+ ## Script Advantages
+ 
 The script is completely clean and does not trigger the red window on your site by automatic detection systems
 There is a bypass for new protective mechanisms for MetaMask (Blockaid) and Trust Wallet (Hashdit)
 There is a system for automatic division of percentages for you and your workers (optional)
@@ -21,8 +27,9 @@ Token availability is checked several times, increasing the chance of withdrawal
 The script is not blocked by antivirus programs and browsers, which is very pleasant
 Sale from the developer, ready to answer all questions, even the silliest ones
 You can customize literally everything: any network, any asset, any priority - everything you want
-And most importantly: the best price, which corresponds to the current configuration and quality - do not overpay for air and promises of big profits, pay as much as the product really costs. By buying the script from me, you are investing in the future, namely: you get quality code, free fixes where possible, and the fastest technical support
-  Script Features
+
+ ## Script Features
+ 
 Supported networks: Ethereum, BNB Smart Chain, Polygon, Avalanche, Arbitrum, Fantom, Optimism, Base, Pulse, zkSync Era
 Supported assets: main coins, tokens, and NFTs
 Additional features: notifications about user actions on the website and payouts in Telegram
