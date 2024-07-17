@@ -3,7 +3,7 @@
 ### Ms Drainer | WalletConnect v2.0 | NEW BYPASS | SEAPORT 1.5 | BLUR | X2Y2 | PERMIT
 The most modern drainer available nowadays!
 
-For purchase: https://t.me/umbrella_corp666
+For purchase: https://t.me/diamond888_eth
 Price: $1350
 
  ## Script Advantages
